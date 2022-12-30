@@ -12,7 +12,7 @@
   "dependencies": {
     "assert": "^2.0.0",
     "chai": "^4.1.2",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "npm-pack-all": "^1.11.1",
     "webdriverio": "^5.1.0"
   }
